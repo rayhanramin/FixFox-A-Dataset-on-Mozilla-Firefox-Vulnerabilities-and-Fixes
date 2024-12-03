@@ -6,6 +6,8 @@ The **FixFox dataset** is provided as a `.bacpac` file for portability and compa
 
 ## Dataset Details
 
+FixFox dataset can also be downloaded from: [DOI: 10.5281/zenodo.14270384](https://zenodo.org/records/14270384).
+
 | **Property**                 | **Value**                           |
 | ---------------------------- | ----------------------------------- |
 | **Database Name**            | `FixFox`                            |
