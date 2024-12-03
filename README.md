@@ -12,7 +12,6 @@ The **FixFox dataset** is provided as a `.bacpac` file for portability and compa
 | **File Provided**            | `FixFox.bacpac`                     |
 | **SQL Server Compatibility** | Level 160                           |
 | **Collation**                | `SQL_Latin1_General_CP1_CI_AS`      |
-| **Database Size**            | 144.00 MB (Data) + 47.53 MB (Index) |
 | **SQL Server Version**       | Microsoft SQL Server 2022 (RTM)     |
 
 ---
@@ -22,7 +21,6 @@ The **FixFox dataset** is provided as a `.bacpac` file for portability and compa
 - **SQL Server Version**: The dataset is compatible with **SQL Server 2022** (RTM).
 - **Compatibility Level**: Set to **160**, ensuring compatibility with SQL Server 2022.
 - **Collation**: Uses **SQL_Latin1_General_CP1_CI_AS**, which is the default collation for SQL Server.
-- **Database Size**: The dataset has a size of **144.00 MB** for data and **47.53 MB** for index space.
 
 ---
 
