@@ -75,10 +75,10 @@ The dataset is provided as a compressed file named `FixFox.zip` in the `Dataset`
 Run the following command in your terminal:
 
 ```bash
-The command will extract the contents of `FixFox.zip` into the `Dataset` folder.
+unzip Dataset/FixFox.zip -d Dataset/
 ```
 
-This will extract the contents of FixFox.zip into the Dataset folder.
+This will extract the contents of `FixFox.zip` into the `Dataset` folder.
 
 ---
 
