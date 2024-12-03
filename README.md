@@ -18,6 +18,7 @@ The **FixFox dataset** is provided as a `.bacpac` file for portability and compa
 ---
 
 ## Dataset Schema
+![FixFox_Diagram](https://github.com/user-attachments/assets/4227cedf-1c03-4aa6-bf55-2500791131e0)
 
 
 ---
