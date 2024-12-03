@@ -12,7 +12,7 @@ The **FixFox dataset** is provided as a `.bacpac` file for portability and compa
 | **File Provided**            | `FixFox.bacpac`                     |
 | **SQL Server Compatibility** | Level 160                           |
 | **Collation**                | `SQL_Latin1_General_CP1_CI_AS`      |
-| **Database Size**            | 144.00 MB (Data) + 47.59 MB (Index) |
+| **Database Size**            | 144.00 MB (Data) + 47.53 MB (Index) |
 | **SQL Server Version**       | Microsoft SQL Server 2022 (RTM)     |
 
 ---
@@ -22,7 +22,7 @@ The **FixFox dataset** is provided as a `.bacpac` file for portability and compa
 - **SQL Server Version**: The dataset is compatible with **SQL Server 2022** (RTM).
 - **Compatibility Level**: Set to **160**, ensuring compatibility with SQL Server 2022.
 - **Collation**: Uses **SQL_Latin1_General_CP1_CI_AS**, which is the default collation for SQL Server.
-- **Database Size**: The dataset has a size of **144.00 MB** for data and **47.59 MB** for index space.
+- **Database Size**: The dataset has a size of **144.00 MB** for data and **47.53 MB** for index space.
 
 ---
 
@@ -55,6 +55,30 @@ To run the example notebooks, ensure you have the required Python libraries inst
 ```bash
 pip install -r Usage\ Examples/requirements.txt
 ```
+
+---
+
+## Unzipping the Dataset
+
+The dataset is provided as a compressed file named `FixFox.zip` in the `Dataset` folder. Follow these steps to extract it:
+
+### On Windows:
+1. Navigate to the `Dataset` folder in File Explorer.
+2. Right-click on `FixFox.zip` and select **Extract All**.
+3. Choose the destination folder and click **Extract**.
+
+### On macOS:
+1. Locate the `Dataset` folder in Finder.
+2. Double-click `FixFox.zip` to extract it.
+
+### On Linux or using the Command Line:
+Run the following command in your terminal:
+
+```bash
+The command will extract the contents of `FixFox.zip` into the `Dataset` folder.
+```
+
+This will extract the contents of FixFox.zip into the Dataset folder.
 
 ---
 
