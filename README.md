@@ -6,7 +6,7 @@ The **FixFox dataset** is provided as a `.bacpac` file for portability and compa
 
 ## Dataset Details
 
-FixFox dataset can also be downloaded from: [DOI: 10.5281/zenodo.14270384](https://zenodo.org/records/14270384).
+FixFox dataset can also be downloaded from: [DOI: 10.5281/zenodo.17568081](https://zenodo.org/records/17568081).
 
 | **Property**                 | **Value**                           |
 | ---------------------------- | ----------------------------------- |
@@ -27,8 +27,7 @@ FixFox dataset can also be downloaded from: [DOI: 10.5281/zenodo.14270384](https
 ---
 
 ## Dataset Schema
-
-![FixFox](https://github.com/user-attachments/assets/14e0ced7-de52-4a2f-b991-a3a8830b987e)
+![FixFox](https://github.com/user-attachments/assets/41a5b938-31e3-45f1-aa6e-2d485b6e0495)
 
 
 ---
